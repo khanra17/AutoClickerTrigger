@@ -1,0 +1,8 @@
+id=xiaomi_trigger_repeater
+name=Xiaomi Trigger Repeater 
+version=1.0
+versionCode=1
+author=khanra17
+description=Magisk module for Xiaomi (F3-GT/F4-GT) - Convert (left) trigger hold to multiple taps.
+support=https://github.com/khanra17/Xiaomi-Trigger-Repeater
+updateJson=https://raw.githubusercontent.com/khanra17/Xiaomi-Trigger-Repeater/master/magisk.json
